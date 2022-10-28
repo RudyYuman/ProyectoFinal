@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Entity_Layer.PuestoBO>
+
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Listar</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Insertar")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ID_PUESTO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NOMBRE_PUESTO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SALARIO)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ID_PUESTO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NOMBRE_PUESTO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SALARIO)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Actualizar", new { ID = item.ID_PUESTO }) |
+            
+            @Html.ActionLink("Borrar", "Eliminar", new { ID = item.ID_PUESTO })
+        </td>
+    </tr>
+}
+
+</table>

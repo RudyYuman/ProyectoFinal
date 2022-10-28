@@ -1,0 +1,9 @@
+C:\Users\Rudy\source\repos\WebApplication1\Dataacces\bin\Release\Dataacces.dll
+C:\Users\Rudy\source\repos\WebApplication1\Dataacces\bin\Release\Dataacces.pdb
+C:\Users\Rudy\source\repos\WebApplication1\Dataacces\bin\Release\Entity_Layer.dll
+C:\Users\Rudy\source\repos\WebApplication1\Dataacces\bin\Release\Entity_Layer.pdb
+C:\Users\Rudy\source\repos\WebApplication1\Dataacces\obj\Release\Dataacces.csproj.AssemblyReference.cache
+C:\Users\Rudy\source\repos\WebApplication1\Dataacces\obj\Release\Dataacces.csproj.CoreCompileInputs.cache
+C:\Users\Rudy\source\repos\WebApplication1\Dataacces\obj\Release\Dataacces.csproj.CopyComplete
+C:\Users\Rudy\source\repos\WebApplication1\Dataacces\obj\Release\Dataacces.dll
+C:\Users\Rudy\source\repos\WebApplication1\Dataacces\obj\Release\Dataacces.pdb

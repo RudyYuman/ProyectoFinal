@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Entity_Layer.DetalleFacturaBO>
+
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Listar</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Insertar")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ID_DETALLE_FACTURA)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CANTIDAD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PRECIO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TOTAL)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DESCRIPCION)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NIT)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FECHA)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ID_DETALLE_FACTURA)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CANTIDAD)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PRECIO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TOTAL)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DESCRIPCION)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NIT)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FECHA)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Actualizar", new { ID = item.ID_DETALLE_FACTURA }) |
+            @Html.ActionLink("Borrar", "Eliminar", new { ID = item.ID_DETALLE_FACTURA })
+        </td>
+    </tr>
+}
+
+</table>

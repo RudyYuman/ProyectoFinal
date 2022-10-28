@@ -1,0 +1,55 @@
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\bin\Debug\Bussines_Layer.dll
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\bin\Debug\Bussines_Layer.pdb
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\bin\Debug\Dataacces.dll
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\bin\Debug\Entity_Layer.dll
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\bin\Debug\Dataacces.pdb
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\bin\Debug\Entity_Layer.pdb
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csproj.AssemblyReference.cache
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csproj.CopyComplete
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.dll
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.pdb
+\\servidor\users$\ryuman\Escritorio\WebApplication1\Bussines_Layer\bin\Debug\Bussines_Layer.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\Bussines_Layer\bin\Debug\Bussines_Layer.pdb
+\\servidor\users$\ryuman\Escritorio\WebApplication1\Bussines_Layer\bin\Debug\Dataacces.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\Bussines_Layer\bin\Debug\Entity_Layer.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\Bussines_Layer\bin\Debug\Dataacces.pdb
+\\servidor\users$\ryuman\Escritorio\WebApplication1\Bussines_Layer\bin\Debug\Entity_Layer.pdb
+\\servidor\users$\ryuman\Escritorio\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csprojAssemblyReference.cache
+\\servidor\users$\ryuman\Escritorio\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csproj.CoreCompileInputs.cache
+\\servidor\users$\ryuman\Escritorio\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csproj.CopyComplete
+\\servidor\users$\ryuman\Escritorio\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.pdb
+C:\Users\Rudy\Desktop\WebApplication1\Bussines_Layer\bin\Debug\Bussines_Layer.dll
+C:\Users\Rudy\Desktop\WebApplication1\Bussines_Layer\bin\Debug\Bussines_Layer.pdb
+C:\Users\Rudy\Desktop\WebApplication1\Bussines_Layer\bin\Debug\Dataacces.dll
+C:\Users\Rudy\Desktop\WebApplication1\Bussines_Layer\bin\Debug\Entity_Layer.dll
+C:\Users\Rudy\Desktop\WebApplication1\Bussines_Layer\bin\Debug\Dataacces.pdb
+C:\Users\Rudy\Desktop\WebApplication1\Bussines_Layer\bin\Debug\Entity_Layer.pdb
+C:\Users\Rudy\Desktop\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csproj.AssemblyReference.cache
+C:\Users\Rudy\Desktop\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Rudy\Desktop\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csproj.CopyComplete
+C:\Users\Rudy\Desktop\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.dll
+C:\Users\Rudy\Desktop\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.pdb
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\Bussines_Layer\bin\Debug\Bussines_Layer.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\Bussines_Layer\bin\Debug\Bussines_Layer.pdb
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\Bussines_Layer\bin\Debug\Dataacces.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\Bussines_Layer\bin\Debug\Entity_Layer.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\Bussines_Layer\bin\Debug\Dataacces.pdb
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\Bussines_Layer\bin\Debug\Entity_Layer.pdb
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csprojAssemblyReference.cache
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csproj.CoreCompileInputs.cache
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csproj.CopyComplete
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.pdb
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\Bussines_Layer\bin\Debug\Bussines_Layer.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\Bussines_Layer\bin\Debug\Bussines_Layer.pdb
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\Bussines_Layer\bin\Debug\Dataacces.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\Bussines_Layer\bin\Debug\Entity_Layer.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\Bussines_Layer\bin\Debug\Dataacces.pdb
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\Bussines_Layer\bin\Debug\Entity_Layer.pdb
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csproj.AssemblyReference.cache
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csproj.CoreCompileInputs.cache
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.csproj.CopyComplete
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\Bussines_Layer\obj\Debug\Bussines_Layer.pdb

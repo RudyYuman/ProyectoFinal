@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Entity_Layer.DepartamentoBO>
+
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Listar</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Insertar")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ID_DEPARTAMENTO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NOMBRE_DEPARTAMENTO)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ID_DEPARTAMENTO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NOMBRE_DEPARTAMENTO)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Actualizar", new { ID = item.ID_DEPARTAMENTO }) |
+            @Html.ActionLink("Borrar", "Eliminar", new { ID = item.ID_DEPARTAMENTO })
+        </td>
+    </tr>
+}
+
+</table>

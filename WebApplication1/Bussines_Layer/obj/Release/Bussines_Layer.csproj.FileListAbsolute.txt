@@ -1,0 +1,11 @@
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\bin\Release\Bussines_Layer.dll
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\bin\Release\Bussines_Layer.pdb
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\bin\Release\Dataacces.dll
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\bin\Release\Entity_Layer.dll
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\bin\Release\Dataacces.pdb
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\bin\Release\Entity_Layer.pdb
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\obj\Release\Bussines_Layer.csproj.AssemblyReference.cache
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\obj\Release\Bussines_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\obj\Release\Bussines_Layer.csproj.CopyComplete
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\obj\Release\Bussines_Layer.dll
+C:\Users\Rudy\source\repos\WebApplication1\Bussines_Layer\obj\Release\Bussines_Layer.pdb

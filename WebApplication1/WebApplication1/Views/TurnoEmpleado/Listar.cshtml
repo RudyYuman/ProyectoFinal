@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Entity_Layer.TurnoEmpleadoBO>
+
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Listar</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Insertar")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id_TURNO_EMPLEADO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TIPO_TURNO)
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.FECHA_IN)*@
+            FECHA_INICIO_TURNO
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.FECHA_FI)*@
+            FECHA_FINAL_TURNO
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Id_TURNO_EMPLEADO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TIPO_TURNO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FECHA_IN)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FECHA_FI)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Actualizar", new { ID = item.Id_TURNO_EMPLEADO }) |
+            @Html.ActionLink("Eliminar", "Eliminar", new { ID = item.Id_TURNO_EMPLEADO })
+        </td>
+    </tr>
+}
+
+</table>

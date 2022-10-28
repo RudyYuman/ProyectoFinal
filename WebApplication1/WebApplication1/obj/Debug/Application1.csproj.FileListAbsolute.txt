@@ -1,0 +1,335 @@
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Buffers.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Memory.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Bussines_Layer.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Dataacces.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Entity_Layer.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Rotativa.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Bussines_Layer.pdb
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Dataacces.pdb
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Entity_Layer.pdb
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\obj\Debug\Application1.csproj.AssemblyReference.cache
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\obj\Debug\Application1.csproj.CoreCompileInputs.cache
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\obj\Debug\Application1.csproj.CopyComplete
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Rudy\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\WebApplication1.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\System.Buffers.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\System.Memory.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\System.Numerics.Vectors.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Bussines_Layer.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Dataacces.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Entity_Layer.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Rotativa.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\WebGrease.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Bussines_Layer.pdb
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Dataacces.pdb
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Entity_Layer.pdb
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\obj\Debug\Application1.csprojAssemblyReference.cache
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\obj\Debug\Application1.csproj.CoreCompileInputs.cache
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\obj\Debug\Application1.csproj.CopyComplete
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+\\servidor\users$\ryuman\Escritorio\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Buffers.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Memory.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Bussines_Layer.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Dataacces.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Entity_Layer.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Rotativa.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Bussines_Layer.pdb
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Dataacces.pdb
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Entity_Layer.pdb
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\obj\Debug\Application1.csproj.AssemblyReference.cache
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\obj\Debug\Application1.csproj.CoreCompileInputs.cache
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\obj\Debug\Application1.csproj.CopyComplete
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Rudy\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Buffers.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Memory.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Bussines_Layer.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Dataacces.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Entity_Layer.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Rotativa.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Bussines_Layer.pdb
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Dataacces.pdb
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Entity_Layer.pdb
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\obj\Debug\Application1.csprojAssemblyReference.cache
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\obj\Debug\Application1.csproj.CoreCompileInputs.cache
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\obj\Debug\Application1.csproj.CopyComplete
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\ryuman\Downloads\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Buffers.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Memory.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Bussines_Layer.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Dataacces.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Entity_Layer.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Rotativa.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Bussines_Layer.pdb
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Dataacces.pdb
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Entity_Layer.pdb
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\obj\Debug\Application1.csproj.AssemblyReference.cache
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\obj\Debug\Application1.csproj.CoreCompileInputs.cache
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\obj\Debug\Application1.csproj.CopyComplete
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\ersol\Desktop\Entrega del Proyecto\WebApplication1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

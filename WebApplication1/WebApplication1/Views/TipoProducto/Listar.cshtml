@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Entity_Layer.TipoProductoBO>
+
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Listar</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Insertar")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ID_TIPO_PRODUCTO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TIPO_PRODUCTO)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TIPO_MEDIDA)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ID_TIPO_PRODUCTO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TIPO_PRODUCTO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TIPO_MEDIDA)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Actualizar", new { ID = item.ID_TIPO_PRODUCTO }) |
+            @Html.ActionLink("Borrar", "Eliminar", new { ID = item.ID_TIPO_PRODUCTO })
+        </td>
+    </tr>
+}
+
+</table>

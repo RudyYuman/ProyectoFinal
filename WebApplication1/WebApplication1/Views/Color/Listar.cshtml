@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Entity_Layer.ColorBO>
+
+@{
+    ViewBag.Title = "Listar";
+    //Layout = "~/Views/Shared/_LayoutReport.cshtml";
+}
+
+<h2>Listar</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Insertar")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ID_COLOR)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NOMBRE_COLOR)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ID_COLOR)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NOMBRE_COLOR)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Actualizar", new { ID = item.ID_COLOR }) |
+            @Html.ActionLink("Borrar", "Eliminar", new { ID = item.ID_COLOR })
+        </td>
+    </tr>
+}
+
+</table>

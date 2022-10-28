@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Entity_Layer.LineaBO>
+
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Listar</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Insertar")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ID_LINEA)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NOMBRE_LINEA)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ID_LINEA)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NOMBRE_LINEA)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Actualizar", new { ID = item.ID_LINEA }) |
+            @Html.ActionLink("Borrar", "Eliminar", new { ID = item.ID_LINEA })
+        </td>
+    </tr>
+}
+
+</table>

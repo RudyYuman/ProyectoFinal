@@ -1,0 +1,6 @@
+C:\Users\Rudy\source\repos\WebApplication1\Entity_Layer\bin\Release\Entity_Layer.dll
+C:\Users\Rudy\source\repos\WebApplication1\Entity_Layer\bin\Release\Entity_Layer.pdb
+C:\Users\Rudy\source\repos\WebApplication1\Entity_Layer\obj\Release\Entity_Layer.csproj.AssemblyReference.cache
+C:\Users\Rudy\source\repos\WebApplication1\Entity_Layer\obj\Release\Entity_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Rudy\source\repos\WebApplication1\Entity_Layer\obj\Release\Entity_Layer.dll
+C:\Users\Rudy\source\repos\WebApplication1\Entity_Layer\obj\Release\Entity_Layer.pdb

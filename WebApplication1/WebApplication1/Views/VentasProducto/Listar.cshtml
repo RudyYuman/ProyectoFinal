@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Entity_Layer.VentasProductoBO>
+
+@{
+    ViewBag.Title = "Listar";
+    Layout = "~/Views/Shared/_LayoutReport.cshtml";
+}
+
+<h2>Reporte de Productos Vendidos</h2>
+
+<p>
+    
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CANTIDAD)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DESCRIPCION)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TOTAL)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CANTIDAD)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DESCRIPCION)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TOTAL)
+        </td>
+    </tr>
+}
+
+</table>

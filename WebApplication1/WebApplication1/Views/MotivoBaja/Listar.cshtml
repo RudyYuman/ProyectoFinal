@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Entity_Layer.MotivoBajaBO>
+
+@{
+    ViewBag.Title = "Listar";
+}
+
+<h2>Listar</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Insertar")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ID_BAJA)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MOTIVO_BAJA)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ID_BAJA)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MOTIVO_BAJA)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Actualizar", new { ID = item.ID_BAJA }) |
+            @Html.ActionLink("Borrar", "Eliminar", new { ID = item.ID_BAJA })
+        </td>
+    </tr>
+}
+
+</table>
